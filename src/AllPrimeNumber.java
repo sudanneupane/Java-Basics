@@ -20,3 +20,4 @@ public class AllPrimeNumber
         }
     }
 }
+// gives prime number.
